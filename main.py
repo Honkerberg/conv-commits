@@ -1,4 +1,4 @@
 print('Hello world!')
 
 def new_function():
-    return 'Hello world!'
+    return "Hello World!"
