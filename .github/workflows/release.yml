@@ -12,7 +12,7 @@ jobs:
 
             - name: conventional Changelog action
               id: changelog
-              uses: TriPSs/conventional-changelog-action@v3.19.0
+              uses: TriPSs/conventional-changelog-action@v3.17.0
               with:
                 github-token: ${{ secrets.CHANGELOG_RELEASE }}
 
