@@ -1,6 +1,6 @@
 import unittest
 
-from ..main import new_function
+from main import new_function
 
 
 class TestMain(unittest.TestCase):
